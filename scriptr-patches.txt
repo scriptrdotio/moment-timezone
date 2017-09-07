@@ -1,0 +1,2 @@
+A minified version of moment.js and moment-timezone.js were being added to the scriptr/moment-timezone.js file
+Remove any occurunces of "typeof console"
